@@ -5,11 +5,12 @@
 A* (pronounced "A-star") is a powerful and efficient algorithm used for finding the shortest path between two points in a map or network represented as a graph. It's widely employed in various applications, including:
 
 - Robotics: Guiding robots to navigate their environment efficiently.
-Video games: Creating realistic pathfinding for in-game characters.
-GPS navigation systems: Determining the optimal route for drivers.
-Key Concepts:
+- Video games: Creating realistic pathfinding for in-game characters.
+- GPS navigation systems: Determining the optimal route for drivers.
 
-Graphs: A* operates on graphs, where nodes (vertices) represent locations, and edges (connections) represent paths between those locations. Each edge has a weight associated with it, signifying the cost of traversing that path (e.g., distance, time, fuel consumption).
+#### Key Concepts:
+
+<b>Graphs:</b> A* operates on graphs, where nodes (vertices) represent locations, and edges (connections) represent paths between those locations. Each edge has a weight associated with it, signifying the cost of traversing that path (e.g., distance, time, fuel consumption).
 Heuristic Function (h(n)): A crucial component of A*, the heuristic function estimates the cost of reaching the goal node from any given node (n) in the exploration process. It's essentially an informed guess that guides the algorithm towards the most promising paths. The effectiveness of A* heavily relies on having a good heuristic function that is both admissible (never overestimates the actual cost) and informative (provides a reasonably accurate estimate).
 How A Works:*
 
