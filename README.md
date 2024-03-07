@@ -1,5 +1,7 @@
 # A* Algorithm Visualizer
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## About the A* search Algorithm
 
 A* (pronounced "A-star") is a powerful and efficient algorithm used for finding the shortest path between two points in a map or network represented as a graph. It's widely employed in various applications, including:
