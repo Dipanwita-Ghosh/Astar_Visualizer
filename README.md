@@ -1,2 +1,3 @@
-# Astar_Visualizer
-A visualization of the A* path finding algorithm built using Python and Pygame
+# A* Algorithm Visualizer
+
+## About the A* search Algorithm
